@@ -1,5 +1,6 @@
-Stock Portfolio Optimization
-Project Overview
+## Stock Portfolio Optimization
+
+# Project Overview
 This project aims to optimize a stock portfolio by selecting high-performing stocks from the S&P 500, ensuring diversity across various industries. It involves extracting and analyzing stock data, conducting equity research, performing financial analysis, and optimizing portfolio risk and return.
 
 Key Features
